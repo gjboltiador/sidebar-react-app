@@ -29,6 +29,7 @@ function App() {
         collapsible
         trigger={null}
         theme={darkTheme ? 'dark' : 'light'} className="sidebar">
+          <h1>GF Solutions </h1>
           <Logo />
           <Menu darkTheme={darkTheme} />
           <ToggleThemeButton darkTheme={darkTheme} 
