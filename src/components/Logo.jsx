@@ -1,11 +1,11 @@
 import React from "react";
-import {FireFilled} from '@ant-design/icons'
+import {FireFilled, LinuxOutlined, DingtalkSquareFilled} from '@ant-design/icons'
 
 const Logo = () => {
     return (
         <div className="logo">
             <div className="logo-icon">
-                <FireFilled />
+                <DingtalkSquareFilled  />
             </div>
         </div>
         
